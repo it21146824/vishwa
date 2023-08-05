@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data & Operating System Security/README.md",
+                "file": "Cryptography/Introduction to Cryptography.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a608e93921701a36",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data & Operating System Security/README.md",
+                "file": "Cryptography/Introduction to Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data & Operating System Security/README.md",
+                "file": "Cryptography/Introduction to Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data & Operating System Security/README.md"
+                "file": "Cryptography/Introduction to Cryptography.md"
               }
             }
           }
@@ -146,13 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e68383bc62f8c33b",
+  "active": "3b13f9c8b1df6f29",
   "lastOpenFiles": [
+    "Cryptography/4913",
+    "Cryptography/Substitution Tables.md",
+    "Cryptography/Introduction to Cryptography.md",
+    "Cryptography/Introduction to Cryptography.md~",
+    "Cryptography/README.md",
+    "Data & Operating System Security/README.md",
     "Enterprise Standards for Information Security/ISO 9000 & ISO 14000 Standards.md",
     "Enterprise Standards for Information Security/Environmental Management.md",
     "Enterprise Standards for Information Security/Quality Management.md",
-    "Data & Operating System Security/README.md",
-    "Cryptography/README.md",
     "Information Security Policy & Management/README.md",
     "Enterprise Standards for Information Security/README.md",
     "Enterprise Standards for Information Security/ISO 9001.md",
