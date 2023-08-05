@@ -1,7 +1,7 @@
 ## Cryptography
 
 #### Syllabus
-1. **Introduction to Cryptography**
+1. **[[Introduction to Cryptography]]**
 2. **Stream Ciphers**
 3. **Block Ciphers**
 4. **Public Key Cryptography**
