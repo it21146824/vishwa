@@ -1,3 +1,10 @@
+---
+id: "Syllabus"
+aliases:
+  - "Cryptography"
+tags: []
+---
+
 ## Cryptography
 
 #### Syllabus
@@ -7,10 +14,9 @@
     3. [[Substitution Cipher]]
     4. [[Modular Arithmetic]]
         1. **Mathematical Objects**
-            1. [[Integers]]
-            2. [[Number Systems]]
-            3. [[Prime Numbers]]
-            4. [[Polynomials]]
+            1. [[Number Systems]]
+            2. [[Prime Numbers]]
+            3. [[Polynomials]]
 1. **Stream Ciphers**
 2. **Block Ciphers**
 3. **Public Key Cryptography**
@@ -18,3 +24,6 @@
 5. **Hash Functions**
 6. **Message Authentication Codes (MACs)**
 7. **Key Establishment**
+
+
+Kerckhoff's Principle
