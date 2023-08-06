@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography/Introduction to Cryptography.md",
+                "file": "Cryptography/Summaries/Introduction to Cryptography.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a608e93921701a36",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cryptography/Introduction to Cryptography.md",
+                "file": "Cryptography/Summaries/Introduction to Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cryptography/Introduction to Cryptography.md",
+                "file": "Cryptography/Summaries/Introduction to Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cryptography/Introduction to Cryptography.md"
+                "file": "Cryptography/Summaries/Introduction to Cryptography.md"
               }
             }
           }
@@ -147,14 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b13f9c8b1df6f29",
+  "active": "e68383bc62f8c33b",
   "lastOpenFiles": [
-    "Cryptography/4913",
-    "Cryptography/Substitution Tables.md",
-    "Cryptography/Introduction to Cryptography.md",
-    "Cryptography/Introduction to Cryptography.md~",
     "Cryptography/README.md",
+    "Cryptography/Summaries/Introduction to Cryptography.md",
+    "Cryptography/Summaries",
+    "Cryptography/Cryptanalysis.md",
     "Data & Operating System Security/README.md",
+    "Cryptography/Substitution Cipher.md",
+    "Cryptography/Substitution Tables.md",
+    "Cryptography/Modular Arithmetic.md",
+    "Cryptography/Symmetric Cryptography.md",
+    "Cryptography/4913",
+    "Cryptography/Introduction to Cryptography.md~",
     "Enterprise Standards for Information Security/ISO 9000 & ISO 14000 Standards.md",
     "Enterprise Standards for Information Security/Environmental Management.md",
     "Enterprise Standards for Information Security/Quality Management.md",
