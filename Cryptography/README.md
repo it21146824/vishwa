@@ -2,6 +2,10 @@
 
 #### Syllabus
 1. **[[Introduction to Cryptography]]**
+    i. [[Symmetric Cryptography]]
+    ii. [[Cryptanalysis]]
+    iii. [[Substitution Cipher]]
+    iv. [[Modular Arithmetic]]
 2. **Stream Ciphers**
 3. **Block Ciphers**
 4. **Public Key Cryptography**
