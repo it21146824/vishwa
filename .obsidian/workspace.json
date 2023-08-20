@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
+                "file": "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
+                "file": "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
+                "file": "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Security Policy & Management/SysSP - System Specific Security Policy.md"
+                "file": "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   "active": "a18c81a551735508",
   "lastOpenFiles": [
     "Information Security Policy & Management/Introduction To Information Security Policy & Management.md",
+    "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
     "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
     "Information Security Policy & Management/SysSP - System Specific Security Policy.md~",
-    "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
     "Information Security Policy & Management/EISP - Enterprise Security Policy.md",
     "Information Security Policy & Management/Issue Specific Information Security Policy.md",
     "Information Security Policy & Management/Enterprise Information Security Policy.md",
