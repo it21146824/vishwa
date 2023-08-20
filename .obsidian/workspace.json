@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "24bef005baf9ba75",
+        "id": "49de0f65b2bf3a77",
         "type": "tabs",
         "children": [
           {
-            "id": "e68383bc62f8c33b",
+            "id": "a18c81a551735508",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Information Security Policy & Management/SysSP - System Specific Security Policy.md"
+              }
             }
           }
         ]
@@ -138,36 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e68383bc62f8c33b",
+  "active": "a18c81a551735508",
   "lastOpenFiles": [
-    "Cryptography/Number Systems.md",
-    "Cryptography/Number Systems.md~",
-    "Cryptography/4913",
-    "Cryptography/Prime Numbers.md",
-    "Cryptography/Modular Arithmetic.md",
-    "Cryptography/Substitution Cipher.md",
-    "Cryptography/Polynomials.md",
-    "Cryptography/Symmetric Cryptography.md",
-    "Cryptography/Summaries/Introduction to Cryptography.md",
-    "Cryptography/Cryptanalysis.md",
-    "Cryptography/Syllabus.md",
-    "Cryptography/Integers.md",
+    "Information Security Policy & Management/Introduction To Information Security Policy & Management.md",
+    "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
+    "Information Security Policy & Management/SysSP - System Specific Security Policy.md~",
+    "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
+    "Information Security Policy & Management/EISP - Enterprise Security Policy.md",
+    "Information Security Policy & Management/Issue Specific Information Security Policy.md",
+    "Information Security Policy & Management/Enterprise Information Security Policy.md",
+    "Information Security Policy & Management/System Specific Information Security Policy.md",
     "Information Security Policy & Management/Syllabus.md",
-    "Enterprise Standards for Information Security/Syllabus.md",
-    "Data & Operating System Security/Syllabus.md",
-    "Cryptography/Summaries",
-    "Data & Operating System Security/README.md",
+    "Information Security Policy & Management/4913",
+    "Information Security Policy & Management/Enterprise Information Security Program Policy.md",
+    "Cryptography/Substitution Cipher.md",
+    "Cryptography/Cryptanalysis.md",
     "Cryptography/Substitution Tables.md",
-    "Cryptography/Introduction to Cryptography.md~",
+    "Cryptography/Polynomials.md",
+    "Cryptography/Prime Numbers.md",
+    "Cryptography/Number Systems.md",
+    "Information Security Policy & Management",
+    "Enterprise Standards for Information Security/Syllabus.md",
+    "Enterprise Standards for Information Security/Quality Management.md",
+    "Enterprise Standards for Information Security/ISO 9001.md",
     "Enterprise Standards for Information Security/ISO 9000 & ISO 14000 Standards.md",
     "Enterprise Standards for Information Security/Environmental Management.md",
-    "Enterprise Standards for Information Security/Quality Management.md",
-    "Information Security Policy & Management/README.md",
-    "Enterprise Standards for Information Security/README.md",
-    "Enterprise Standards for Information Security/ISO 9001.md",
-    "Data & Operating System Security",
-    "Information Security Policy & Management",
     "Enterprise Standards for Information Security",
-    "Cryptography"
+    "Data & Operating System Security/Syllabus.md",
+    "Data & Operating System Security",
+    "Cryptography/Symmetric Cryptography.md",
+    "Cryptography/Syllabus.md",
+    "Cryptography/Summaries/Introduction to Cryptography.md",
+    "Cryptography/Summaries",
+    "Golang/Golang - Contents.md",
+    "Cryptography",
+    "Golang/Variables.md~",
+    "Golang/4913",
+    "Golang/The Go Compiler.md~"
   ]
 }
