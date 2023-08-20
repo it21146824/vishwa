@@ -1,7 +1,7 @@
 ## Information Security Policy & Management
 
 #### Syllabus
-1. **Introduction To Information Security Policy & Management**
+1. **[[Introduction To Information Security Policy & Management]]**
 2. **Data Classification Standards**
 3. **Critical Infrastructure Protection**
 4. **Security Education, Training & Awareness**
