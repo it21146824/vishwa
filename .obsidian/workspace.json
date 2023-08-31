@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "49de0f65b2bf3a77",
+        "id": "fc3b65f22f1efa36",
         "type": "tabs",
         "children": [
           {
-            "id": "a18c81a551735508",
+            "id": "d1d499cf1ff0a105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
+                "file": "Cryptography/Prime Numbers.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
+                "file": "Cryptography/Prime Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
+                "file": "Cryptography/Prime Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md"
+                "file": "Cryptography/Prime Numbers.md"
               }
             }
           }
@@ -146,25 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a18c81a551735508",
+  "active": "d1d499cf1ff0a105",
   "lastOpenFiles": [
+    "Cryptography/4913",
+    "Cryptography/Syllabus.md",
+    "Cryptography/Prime Numbers.md",
+    "Cryptography/Modular Arithmetic.md",
+    "Cryptography/Cryptanalysis.md",
+    "Cryptography/Summaries/Introduction to Cryptography.md",
     "Information Security Policy & Management/Introduction To Information Security Policy & Management.md",
+    "Information Security Policy & Management/Syllabus.md",
+    "Cryptography/Polynomials.md",
+    "Cryptography/Number Systems.md",
     "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
     "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
-    "Information Security Policy & Management/SysSP - System Specific Security Policy.md~",
     "Information Security Policy & Management/EISP - Enterprise Security Policy.md",
-    "Information Security Policy & Management/Issue Specific Information Security Policy.md",
-    "Information Security Policy & Management/Enterprise Information Security Policy.md",
-    "Information Security Policy & Management/System Specific Information Security Policy.md",
-    "Information Security Policy & Management/Syllabus.md",
-    "Information Security Policy & Management/4913",
-    "Information Security Policy & Management/Enterprise Information Security Program Policy.md",
-    "Cryptography/Substitution Cipher.md",
-    "Cryptography/Cryptanalysis.md",
-    "Cryptography/Substitution Tables.md",
-    "Cryptography/Polynomials.md",
-    "Cryptography/Prime Numbers.md",
-    "Cryptography/Number Systems.md",
     "Information Security Policy & Management",
     "Enterprise Standards for Information Security/Syllabus.md",
     "Enterprise Standards for Information Security/Quality Management.md",
@@ -175,13 +171,18 @@
     "Data & Operating System Security/Syllabus.md",
     "Data & Operating System Security",
     "Cryptography/Symmetric Cryptography.md",
-    "Cryptography/Syllabus.md",
-    "Cryptography/Summaries/Introduction to Cryptography.md",
     "Cryptography/Summaries",
-    "Golang/Golang - Contents.md",
+    "Cryptography/Substitution Tables.md",
+    "Cryptography/Substitution Cipher.md",
     "Cryptography",
+    "Golang/Comments.md",
+    "Golang/Variables.md",
+    "Golang/Types.md",
+    "Golang/The Go Compiler.md",
+    "Golang",
+    "Information Security Policy & Management/SysSP - System Specific Security Policy.md~",
+    "Information Security Policy & Management/4913",
     "Golang/Variables.md~",
-    "Golang/4913",
-    "Golang/The Go Compiler.md~"
+    "Golang/4913"
   ]
 }
