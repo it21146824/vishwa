@@ -17,7 +17,14 @@ tags: []
 
 #### Prime Factorization
 + This is the process of **breaking down a number into its prime factors**.
-+ Below are the numbers **$42$, $54$, and $522$** broken down into prime factors:
++ Below are the numbers **$42$, $54$, & $522$** broken down into prime factors:
     + **$42 = 2 \times 3 \times 7$**
     + **$54 = 2 \times 3 \times 3 \times 3$**
     + **$522 = 2 \times 3 \times 3 \times 29$**
+
+### Mini-Exercise
+1. Decompose into prime factors:
+    a. $33$: **$3 \times 11$**
+    b. $45$: **$3 \times 3 \times 5$**
+    c. $1001$: **$7 \times 11 \times 13$**
+    d. $2013$: **$3 \times 11 \times 61$**
