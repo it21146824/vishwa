@@ -21,4 +21,6 @@ tags: []
 11. **[[Modular Arithmetic]]**: Deals with remainders when two numbers are divided by an integer called the modulus
 12. **[[Number Systems]]**: A scheme used to represent integers.
 13. **[[Prime Numbers]]**: A positive integer that is divisible only by itself and 1.
+14. **[[Polynomials|Interpolation]]**: The process of finding a polynomial that passes through a set of points.
+15. **[[Boolean Algebra]]**: Representing logical statements using algebraic operations.
 ---
