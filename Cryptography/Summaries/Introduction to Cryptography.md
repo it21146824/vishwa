@@ -20,4 +20,5 @@ tags: []
 10. **[[Substitution Cipher]]**: A cipher that replaces each letter in the plaintext with another letter.
 11. **[[Modular Arithmetic]]**: Deals with remainders when two numbers are divided by an integer called the modulus
 12. **[[Number Systems]]**: A scheme used to represent integers.
+13. **[[Prime Numbers]]**: A positive integer that is divisible only by itself and 1.
 ---
