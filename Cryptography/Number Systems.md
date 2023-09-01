@@ -6,7 +6,7 @@ aliases:
   - "Number Systems"
 tags: []
 ---
-# Number Systems
+### Number Systems
 + A system used to **represent numbers**.
 
 #### Number System Formula:
