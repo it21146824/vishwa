@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography/Prime Numbers.md",
+                "file": "Cryptography/Modular Arithmetic.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cryptography/Prime Numbers.md",
+                "file": "Cryptography/Modular Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cryptography/Prime Numbers.md",
+                "file": "Cryptography/Modular Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cryptography/Prime Numbers.md"
+                "file": "Cryptography/Modular Arithmetic.md"
               }
             }
           }
@@ -150,14 +150,21 @@
   "lastOpenFiles": [
     "Cryptography/4913",
     "Cryptography/Syllabus.md",
-    "Cryptography/Prime Numbers.md",
     "Cryptography/Modular Arithmetic.md",
-    "Cryptography/Cryptanalysis.md",
-    "Cryptography/Summaries/Introduction to Cryptography.md",
-    "Information Security Policy & Management/Introduction To Information Security Policy & Management.md",
-    "Information Security Policy & Management/Syllabus.md",
+    "Cryptography/Modulo Operation.md",
+    "Cryptography/Modulo Operation.md~",
+    "Cryptography/Substitution Cipher.md",
     "Cryptography/Polynomials.md",
     "Cryptography/Number Systems.md",
+    "4913",
+    "Cryptography/Cryptanalysis.md",
+    "Cryptography/Symmetric Cryptography.md",
+    "Cryptography/Boolean Algebra.md",
+    "Cryptography/Summaries/Introduction to Cryptography.md",
+    "Cryptography/Prime Numbers.md",
+    "Cryptography/Substitution Tables.md",
+    "Information Security Policy & Management/Introduction To Information Security Policy & Management.md",
+    "Information Security Policy & Management/Syllabus.md",
     "Information Security Policy & Management/SysSP - System Specific Security Policy.md",
     "Information Security Policy & Management/ISSP - Issue Specific Security Policy.md",
     "Information Security Policy & Management/EISP - Enterprise Security Policy.md",
@@ -170,19 +177,11 @@
     "Enterprise Standards for Information Security",
     "Data & Operating System Security/Syllabus.md",
     "Data & Operating System Security",
-    "Cryptography/Symmetric Cryptography.md",
     "Cryptography/Summaries",
-    "Cryptography/Substitution Tables.md",
-    "Cryptography/Substitution Cipher.md",
     "Cryptography",
     "Golang/Comments.md",
     "Golang/Variables.md",
-    "Golang/Types.md",
-    "Golang/The Go Compiler.md",
     "Golang",
-    "Information Security Policy & Management/SysSP - System Specific Security Policy.md~",
-    "Information Security Policy & Management/4913",
-    "Golang/Variables.md~",
-    "Golang/4913"
+    "Information Security Policy & Management/SysSP - System Specific Security Policy.md~"
   ]
 }
