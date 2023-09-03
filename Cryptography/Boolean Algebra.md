@@ -49,8 +49,8 @@ tags: []
 | **1** | **0** |        **1**         |
 | **1** | **1** |        **0**         |
 
-#### Implication **$\rightarrow$**
-+ Implication is represented by the symbol **$\rightarrow$**.
+#### If-Then **$\rightarrow$**
++ Also known as **implication**, represented by the symbol **$\rightarrow$**.
 + If **the first input is false**, the output is **true**.
 + If **the first input is true**, the output is **the second input**.
 
@@ -61,8 +61,8 @@ tags: []
 | **1** | **0** |           **0**          |
 | **1** | **1** |           **1**          |
 
-#### Equivalence **$\leftrightarrow$**
-+ Equivalence is represented by the symbol **$\leftrightarrow$**.
+#### If And Only If **$\leftrightarrow$**
++ Also known as **equivalence**, represented by the symbol **$\leftrightarrow$**.
 + If **both inputs are true** or **both inputs are false**, the output is **true**.
 + If **one input is true** and **one input is false**, the output is **false**.
 
