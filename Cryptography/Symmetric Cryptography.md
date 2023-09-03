@@ -1,9 +1,3 @@
----
-id: "Symmetric Cryptography"
-aliases:
-  - "Symmetric Cryptography"
-tags: []
----
 
 ### Symmetric Cryptography
 
