@@ -1,5 +1,5 @@
 ---
-id: "Syllabus"
+id: "Cryptography"
 aliases:
   - "Cryptography"
 tags: []
@@ -27,6 +27,3 @@ tags: []
 5. **Hash Functions**
 6. **Message Authentication Codes (MACs)**
 7. **Key Establishment**
-
-
-Kerckhoff's Principle
