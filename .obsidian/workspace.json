@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1d499cf1ff0a105",
+            "id": "2f74459e53751dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography/Modular Arithmetic.md",
+                "file": "Cryptography/Greatest Common Denominator.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cryptography/Modular Arithmetic.md",
+                "file": "Cryptography/Greatest Common Denominator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cryptography/Modular Arithmetic.md",
+                "file": "Cryptography/Greatest Common Denominator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cryptography/Modular Arithmetic.md"
+                "file": "Cryptography/Greatest Common Denominator.md"
               }
             }
           }
@@ -146,21 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1d499cf1ff0a105",
+  "active": "2f74459e53751dc2",
   "lastOpenFiles": [
+    "Cryptography/Modular Arithmetic.md",
+    "Cryptography/Greatest Common Denominator.md",
+    "Cryptography/Number Systems.md",
+    "Cryptography/Summaries/Introduction to Cryptography.md",
+    "Cryptography/Boolean Algebra.md",
     "Cryptography/4913",
     "Cryptography/Syllabus.md",
-    "Cryptography/Modular Arithmetic.md",
+    "Greatest Common Denominator.md",
     "Cryptography/Modulo Operation.md",
     "Cryptography/Modulo Operation.md~",
     "Cryptography/Substitution Cipher.md",
     "Cryptography/Polynomials.md",
-    "Cryptography/Number Systems.md",
     "4913",
     "Cryptography/Cryptanalysis.md",
     "Cryptography/Symmetric Cryptography.md",
-    "Cryptography/Boolean Algebra.md",
-    "Cryptography/Summaries/Introduction to Cryptography.md",
     "Cryptography/Prime Numbers.md",
     "Cryptography/Substitution Tables.md",
     "Information Security Policy & Management/Introduction To Information Security Policy & Management.md",
@@ -179,8 +181,6 @@
     "Data & Operating System Security",
     "Cryptography/Summaries",
     "Cryptography",
-    "Golang/Comments.md",
-    "Golang/Variables.md",
     "Golang",
     "Information Security Policy & Management/SysSP - System Specific Security Policy.md~"
   ]
