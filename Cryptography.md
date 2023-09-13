@@ -20,6 +20,7 @@ tags: []
             1. [[Boolean Algebra]]
             2. [[Modular Arithmetic|Modulo Operation]]
             3. [[Greatest Common Denominator]]
+            4. [[Greatest Common Denominator#3. Euclidean Algorithm|Euclidean Algorithm]]
 1. **Stream Ciphers**
 2. **Block Ciphers**
 3. **Public Key Cryptography**
